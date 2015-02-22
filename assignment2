@@ -1,6 +1,8 @@
 #Title: Obtain Inverse of matrix from Cache if available
-#Purpose: Inverse of large matrix involves 
-
+#Purpose: R programming assignment 2
+#Functions: makeMatrix, cacheInverse
+#Input: a matrix whose inverse needs to be computed
+#Output: Inverse of matrix (from cache if not already available)
 
 #Function to Make matrix
 makeMatrix <- function(x = matrix()) {
